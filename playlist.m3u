@@ -1,8 +1,10 @@
 #EXTM3U
 
-############  TAMIL ENTERTAINMENT  ############
+####################################################
+###############  TAMIL ENTERTAINMENT  ###############
+####################################################
 
-#EXTINF:-1 tvg-id="sun.tv" tvg-name="Sun TV" group-title="Tamil", Sun TV
+#EXTINF:-1 tvg-id="sun.tv" tvg-name="Sun TV" group-title="Tamil", Sun TV (HDR)
 https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
 
 #EXTINF:-1 tvg-id="vijay.tv" tvg-name="Vijay TV" group-title="Tamil", Vijay TV
@@ -15,7 +17,53 @@ http://87.255.35.150:18553
 http://87.255.35.150:18821
 
 
-############  EXTRA SAMPLE CHANNELS  ############
+#EXTINF:-1 tvg-id="adithyatv" tvg-name="Adithya TV" group-title="Tamil", Adithya TV
+http://87.255.35.150:18840
+
+
+#EXTINF:-1 tvg-id="kalaignar" tvg-name="Kalaignar TV" group-title="Tamil", Kalaignar TV
+https://edge2-moblive.yuppcdn.net/drm1/smil:kalaignartvdrm.smil/chunklist_b996000.m3u8
+#EXTINF:-1 tvg-id="kalaignar" tvg-name="Kalaignar TV" group-title="Tamil", Kalaignar TV (Backup)
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="vasanth" tvg-name="Vasanth TV" group-title="Tamil", Vasanth TV
+https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/playlist.m3u8
+#EXTINF:-1 tvg-id="vasanth" tvg-name="Vasanth TV" group-title="Tamil", Vasanth TV (Backup)
+https://cdn-3.pishow.tv/live/1247/master.m3u8
+
+
+#EXTINF:-1 tvg-id="rajtv" tvg-name="Raj TV" group-title="Tamil", Raj TV
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
+#EXTINF:-1 tvg-id="rajtv" tvg-name="Raj TV" group-title="Tamil", Raj TV (Backup)
+http://livestream.rajtv.tv/cluster1/Content/Channel/RajTV/HLS/master.m3u8
+
+
+#EXTINF:-1 tvg-id="isaiyaruvi" tvg-name="Isaiyaruvi" group-title="Tamil", Isaiyaruvi
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1 tvg-id="isaiyaruvi" tvg-name="Isaiyaruvi" group-title="Tamil", Isaiyaruvi (Backup)
+https://edge2-moblive.yuppcdn.net/drm1/smil:isaiaruvitvdrm.smil/manifest.m3u8
+
+
+#EXTINF:-1 tvg-id="zeethirai" tvg-name="Zee Thirai" group-title="Tamil", Zee Thirai
+https://edge2-moblive.yuppcdn.net/drm1/smil:isaiaruvitvdrm.smil/manifest.m3u8
+
+
+#EXTINF:-1 tvg-id="thanthi" tvg-name="Thanthi TV" group-title="Tamil", Thanthi TV
+https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
+
+
+#EXTINF:-1 tvg-id="polimer" tvg-name="Polimer TV" group-title="Tamil", Polimer TV
+https://cdn-2.pishow.tv/live/1241/master.m3u8
+
+
+#EXTINF:-1 tvg-id="ktv" tvg-name="KTV" group-title="Tamil", KTV
+http://87.255.35.150:18805
+
+
+####################################################
+###############  EXTRA SAMPLE CHANNELS #############
+####################################################
 
 #EXTINF:-1 tvg-id="sample1" tvg-name="Sample Channel 1" group-title="General", Sample Channel 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8

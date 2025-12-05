@@ -3,16 +3,16 @@
 ############  TAMIL ENTERTAINMENT  ############
 
 #EXTINF:-1 tvg-id="sun.tv" tvg-name="Sun TV" group-title="Tamil", Sun TV
-https://example.com/suntv/stream.m3u8
+https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
 
 #EXTINF:-1 tvg-id="vijay.tv" tvg-name="Vijay TV" group-title="Tamil", Vijay TV
-https://example.com/vijaytv/stream.m3u8
+http://87.255.35.150:18955
 
 #EXTINF:-1 tvg-id="zee.tamil" tvg-name="Zee Tamil" group-title="Tamil", Zee Tamil
-https://example.com/zeetamil/stream.m3u8
+http://87.255.35.150:18553
 
 #EXTINF:-1 tvg-id="sun.music" tvg-name="Sun Music" group-title="Tamil", Sun Music
-https://example.com/sunmusic/stream.m3u8
+http://87.255.35.150:18821
 
 
 ############  EXTRA SAMPLE CHANNELS  ############
